@@ -112,6 +112,8 @@ Analyze marketing performance for individual geographical regions.
 These filters allow users to move from an overall marketing view to a more detailed analysis of specific segments.
 
 ---
+<img width="1323" height="745" alt="Screenshot 2026-09-24 141247" src="https://github.com/user-attachments/assets/ce551ff4-acdd-423d-aadd-9d811cb212a0" />
+
 
 ## 🔍 Key Business Insights
 
